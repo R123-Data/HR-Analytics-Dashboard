@@ -2,7 +2,14 @@ Title: HR-Analytics-Dashboard
 
 Description: This HR Analytics Dashboard developed in Microsoft Excel to analyze workforce data and provide actionable insights into employee demographics, attrition, training, work-life balance, and departmental performance. The dashboard helps HR teams monitor key workforce metrics and support data-driven decision-making.
 
-Tools
+Tools and technologies used:
+Microsoft Excel - Used for data analysis, dashboard creation, and reporting.
+Pivot Tables - Summarized and analyzed large HR datasets efficiently.
+Pivot Charts - Created dynamic visualizations to identify workforce trends and patterns.
+Slicers - Enabled interactive filtering by Gender and Department for better data exploration.
+KPI Cards - Displayed key HR metrics such as Total Employees, Attrition Rate, Total Attrition, Average Age, and Total Departments.
+Data Visualization - Used bar charts, line charts, and pie charts to present insights in an easy-to-understand format.
+Dashboard Design - Developed an interactive and user-friendly HR Analytics Dashboard for quick decision-making and performance monitoring.
 
 Key KPIs:
 Total Employees: 50,000
@@ -38,5 +45,5 @@ Simplified analysis of training, diversity, and employee engagement data.
 
 This project strengthened my ability to transform raw HR data into meaningful insights through interactive dashboards, helping organizations make informed workforce and talent management decisions.
 
-Screenshot: 
+Screenshot: ![Dashboard Preview](
 
