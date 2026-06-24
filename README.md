@@ -45,5 +45,5 @@ Simplified analysis of training, diversity, and employee engagement data.
 
 This project strengthened my ability to transform raw HR data into meaningful insights through interactive dashboards, helping organizations make informed workforce and talent management decisions.
 
-Screenshot: ![Dashboard Preview](
+Screenshot: ![Dashboard Preview](https://github.com/R123-Data/HR-Analytics-Dashboard/blob/main/Snapshot%20HR%20Analytics%20Dashboard.JPG)
 
